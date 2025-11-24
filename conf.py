@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'ribosomal_snakemake'
-copyright = '2021, LCrossman'
+copyright = '2025, LCrossman'
 author = 'LCrossman'
 
 # The full version, including alpha/beta/rc tags

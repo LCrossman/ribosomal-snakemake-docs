@@ -15,6 +15,7 @@ Welcome to ribosomal_snakemake's documentation!
    quickstart
    usage   
    tutorial
+   includeme
 
 
 Indices and tables
